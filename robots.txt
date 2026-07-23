@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-7ysz3b.highwall-lab.cloudns.ch/sitemap.xml
